@@ -6,7 +6,7 @@ The AI agent is created to prepare pre-call report for  Sales rep using Prospect
 
 Give prompt to Agent in the format similar to below
 
-**Input ***
+**Input***
 
 ´
 I am getting on a call with Liam Ottley from Morningside AI 
@@ -30,7 +30,8 @@ Endole_ refering to(https://open.endole.co.uk/insight/company/SC794539-morningsi
 
 
 
-**How to Use **
+
+**How to Use :**
 Download .rai file uploaded on this website and use it in your code or the link specified 
 
 
