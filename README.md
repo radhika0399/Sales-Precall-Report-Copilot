@@ -12,10 +12,12 @@ Give prompt to Agent in the format similar to below
 **Input Example Prompt**
 
 
-I am getting on a call with Liam Ottley from Morningside AI 
+I am getting on a call with Liam Ottley from Morningside AI
+Links: 
 https://morningside.ai/ 
 https://www.linkedin.com/in/liamottley/ 
-Get me a pre call report please to prepare for the call 
+
+Get me a pre-call report please to prepare for the call 
 
 
 
