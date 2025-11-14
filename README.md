@@ -30,6 +30,10 @@ Endole_ refering to(https://open.endole.co.uk/insight/company/SC794539-morningsi
 
 
 
+**How to Use **
+Download .rai file uploaded on this website and use it in your code or the link specified 
+
+
 
 **Chat Bot Script :**
 
