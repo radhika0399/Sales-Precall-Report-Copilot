@@ -9,15 +9,17 @@ The AI agent is created to prepare pre-call report for  Sales rep using Prospect
 
 Give prompt to Agent in the format similar to below
 
-**Input***
+**Input Example Prompt***
 
-´
+
 I am getting on a call with Liam Ottley from Morningside AI 
 https://morningside.ai/ 
 https://www.linkedin.com/in/liamottley/ 
-Get me a pre call report please to prepare for the call ´
+Get me a pre call report please to prepare for the call 
 
-**Output**
+
+
+**Output Format**
 It will generate the  Pre-call report using all the information of Prospect and Company and prepare the Sales rep for the questions to ask and detailed profiles to refer so as to not miss the important information and be precise in putting up questions during the call.
 
 
