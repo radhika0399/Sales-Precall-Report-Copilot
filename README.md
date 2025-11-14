@@ -22,6 +22,7 @@ Get me a pre-call report please to prepare for the call
 
 
 **Output Format**
+
 It will generate the  Pre-call report using all the information of Prospect and Company and prepare the Sales rep for the questions to ask and detailed profiles to refer so as to not miss the important information and be precise in putting up questions during the call.
 
 
