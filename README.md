@@ -9,7 +9,7 @@ The AI agent is created to prepare pre-call report for  Sales rep using Prospect
 
 Give prompt to Agent in the format similar to below
 
-**Input Example Prompt***
+**Input Example Prompt**
 
 
 I am getting on a call with Liam Ottley from Morningside AI 
